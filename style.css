@@ -1,5 +1,5 @@
 .search {
-  --background: #1c2124;
+  --background: #0c0e14;
   --text-color: #414856;
   --primary-color: #f95d6b;
   --border-radius: 10px;
@@ -100,7 +100,7 @@
 .search .symbol .cloud,
 .search .symbol .lens {
   position: absolute;
-  fill: #1c2124;
+  fill: #0c0e14;
   stroke: none;
   top: 50%;
   left: 50%;
@@ -112,7 +112,7 @@
   transition: all 0.6s ease;
 }
 .search .symbol .lens {
-  fill: #1c2124;
+  fill: #0c0e14;
   width: 16px;
   height: 16px;
   z-index: 2;
@@ -122,7 +122,7 @@
 }
 
 body {
-  background: #1c2124;
+  background: #0c0e14;
   margin: 0;
   height: 100vh;
   font: 400 16px "Varela Round", sans-serif;
